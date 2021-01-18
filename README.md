@@ -1,6 +1,6 @@
 # Software-Architecture-CMS
 This project was a focus on understanding Software Requirements: functional and majorly non-functional requirements (also referred to as quality attributes).
-The FCAPS model was employed while tackling this project as seen in the [https://github.com/evansmosomi/Software-Architecture-CMS/blob/main/FINAL%20PROJECT%20DOC.pdf] report.
+The FCAPS model was employed while tackling this project as seen in the [report].(https://github.com/evansmosomi/Software-Architecture-CMS/blob/main/FINAL%20PROJECT%20DOC.pdf) 
 
 We did 3 iterations of the quality attribute test, having a 7 step process. The guiding factors considered in the project were:
 
