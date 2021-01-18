@@ -4,7 +4,7 @@ The FCAPS model was employed while tackling this project as seen in the report.
 
 We did 3 iterations of the quality attribute test, having a 7 step process. The guiding factors considered in the project were:
 
-  *Quality Attributes
+  * Quality Attributes
   
   *Constraints
   
